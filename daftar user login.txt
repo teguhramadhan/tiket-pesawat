@@ -1,0 +1,12 @@
+username : admin
+password : admin
+
+
+username : petugas
+password : petugas
+
+username : manager
+password : manager
+
+username : su
+password : su
